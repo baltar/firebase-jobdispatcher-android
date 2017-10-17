@@ -4,6 +4,5 @@ build/
 local.properties
 .idea/
 *.iml
-javadoc/
 captures/
 kokoro/
